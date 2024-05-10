@@ -2,187 +2,147 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
+				111,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Lookalike_Assets ElLeftBIG"
+		},
+		{
+			"offsets": [
+				166,
+				275
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Lookalike_Assets ElUpBIG"
+		},
+		{
+			"offsets": [
+				0,
 				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF idle dance"
+			"name": "Lookalike_Assets ElIdleBIG"
 		},
 		{
 			"offsets": [
-				5,
-				-6
+				-60,
+				-480
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
+			"anim": "idle-alt",
 			"indices": [],
-			"name": "BF NOTE LEFT0"
+			"name": "Lookalike_Assets ElIdleSMALL"
 		},
 		{
 			"offsets": [
-				-20,
-				-51
+				-2,
+				-457
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN",
+			"anim": "singLEFT-alt",
 			"indices": [],
-			"name": "BF NOTE DOWN0"
+			"name": "Lookalike_Assets ElLeftSMALL"
 		},
 		{
 			"offsets": [
-				-46,
+				-50,
+				-526
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Lookalike_Assets ElDownSMALL"
+		},
+		{
+			"offsets": [
+				-80,
+				-429
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Lookalike_Assets ElUpSMALL"
+		},
+		{
+			"offsets": [
+				-66,
+				-476
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Lookalike_Assets ElRightSMALL"
+		},
+		{
+			"offsets": [
+				-10,
 				27
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "BF NOTE UP0"
-		},
-		{
-			"offsets": [
-				-48,
-				-7
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"name": "Lookalike_Assets ElRightBIG"
 		},
 		{
 			"offsets": [
+				20,
+				-129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				4,
+				5,
+				6,
 				7,
-				19
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "BF NOTE LEFT MISS"
-		},
-		{
-			"offsets": [
-				-15,
-				-19
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "BF NOTE DOWN MISS"
-		},
-		{
-			"offsets": [
-				-46,
-				27
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "BF NOTE UP MISS"
-		},
-		{
-			"offsets": [
-				-44,
-				22
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
-		},
-		{
-			"offsets": [
-				-3,
-				5
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				14,
-				18
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-4,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
-		},
-		{
-			"offsets": [
-				-10,
-				-16
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
-		},
-		{
-			"offsets": [
-				294,
-				267
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-40
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
+			"name": "Lookalike_Assets ElDownBIG"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/Lookalike_Assets",
 	"position": [
-		0,
-		350
+		290,
+		100
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "dad",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		175,
+		102,
+		206
 	],
 	"camera_position": [
-		0,
-		0
+		-50,
+		-220
 	],
-	"sing_duration": 4,
-	"scale": 1
+	"sing_duration": 6.1,
+	"scale": 3.2
 }
